@@ -1,6 +1,6 @@
 # Avisos de terceros
 
-Travesía incluye los siguientes componentes de terceros, cada uno con su propia licencia.
+Viaje en 3D incluye los siguientes componentes de terceros, cada uno con su propia licencia.
 
 ## Three.js (r128)
 
@@ -40,4 +40,4 @@ Se incluye un subconjunto de la tipografía con los caracteres necesarios.
 
 ## Música
 
-"Por una cabeza", de Carlos Gardel y Alfredo Le Pera (1935), en versión MIDI sintetizada en el navegador.
+Música incluida: «Jimmy Jimmy», con autorización para su uso en este sitio.

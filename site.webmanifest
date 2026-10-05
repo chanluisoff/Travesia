@@ -1,6 +1,6 @@
 {
-  "name": "Travesía",
-  "short_name": "Travesía",
+  "name": "Viaje en 3D",
+  "short_name": "Viaje en 3D",
   "description": "Tus fotos, unidas por un viaje en 3D a través del mundo que elijas.",
   "start_url": "./",
   "display": "standalone",

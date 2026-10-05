@@ -1,8 +1,8 @@
-# Travesía
+# Viaje en 3D
 
 **Tus fotos, unidas por un viaje en 3D a través del mundo que elijas.**
 
-Travesía es un visor de fotografías que transforma una colección de imágenes en un recorrido en tres dimensiones: la cámara viaja por distintos mundos y se detiene frente a cada foto.
+Viaje en 3D es un visor de fotografías que transforma una colección de imágenes en un recorrido en tres dimensiones: la cámara viaja por distintos mundos y se detiene frente a cada foto.
 
 ## Cómo usarlo
 
